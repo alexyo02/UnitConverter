@@ -1,0 +1,6 @@
+{
+  "name": "UnitConverter",
+  "description": "Minimalist unit and currency converter for mechanical, electrical, and thermal measurements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
