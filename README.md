@@ -49,7 +49,7 @@
 
 ## Installation
 
-> [![GitHub release (latest by date)](https://img.shields.io/github/v/release/alexyo02/unit-converter)](https://github.com/alexyo02/unit-converter/releases)
+> [![GitHub release (latest by date)](https://img.shields.io/github/v/release/alexyo02/UnitConverter)](https://github.com/alexyo02/UnitConverter/releases)
 
 ```bash
 # Example for Android build
